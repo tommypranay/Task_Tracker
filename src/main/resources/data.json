@@ -1,0 +1,19 @@
+{
+  "nextId": 3,
+  "tasks": [
+    {
+      "id": 1,
+      "status": "IN_PROGRESS",
+      "task": "may be",
+      "createdAt": "2025-07-13T09:20:18.9920509",
+      "updatedAt": "2025-07-13T10:30:03.6181404"
+    },
+    {
+      "id": 2,
+      "status": "NOT_DONE",
+      "task": "change to new",
+      "createdAt": "2025-07-13T09:27:59.5900577",
+      "updatedAt": "2025-07-13T09:29:35.5327759"
+    }
+  ]
+}
